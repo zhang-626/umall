@@ -1,9 +1,11 @@
-# xiaou
+＃商城
+已完成
+
 
 > A Vue.js project
 
 ## Build Setup
-
+ 
 ``` bash
 # install dependencies
 npm install
