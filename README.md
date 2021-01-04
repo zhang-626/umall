@@ -2,9 +2,10 @@
 已完成
 
 
-> A Vue.js project
-
-## Build Setup
+>一个Vue.js项目
+#
+##建立设置＃
+＃项目已完成
  
 ``` bash
 # install dependencies
